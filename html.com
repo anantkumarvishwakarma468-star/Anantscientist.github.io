@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anant Kumar Vishwakarma - Official Portal</title>
+    <style>
+        body { background-color: #000; color: #fff; font-family: 'Arial', sans-serif; text-align: center; padding: 20px; }
+        h1 { color: #00f0ff; text-shadow: 0 0 10px #00f0ff; }
+        .status { border: 1px solid #00f0ff; display: inline-block; padding: 5px 15px; color: #00f0ff; margin-bottom: 20px; }
+        .section { max-width: 600px; margin: 20px auto; text-align: left; background: #111; padding: 20px; border: 1px solid #333; border-radius: 8px; }
+        h2 { color: #00f0ff; border-bottom: 1px solid #333; padding-bottom: 10px; }
+        .note-point { margin-bottom: 8px; border-left: 3px solid #00ffaa; padding-left: 8px; }
+    </style>
+</head>
+<body>
+    <h1>ANANT KUMAR VISHWAKARMA</h1>
+    <div class="status">SYSTEM STATUS: LIVE & ACTIVE</div>
+    <p style="color: #00ffaa;">Target: NEET Specialist & Digital Scientist</p>
+
+    <div class="section">
+        <h2>NEET Biology Notes: Cell Biology</h2>
+        <div class="note-point"><strong>Cell Theory:</strong> Schleiden aur Schwann ne di thi.</div>
+        <div class="note-point"><strong>Prokaryotic Cells:</strong> Membrane-bound nucleus nahi hota.</div>
+        <div class="note-point"><strong>Eukaryotic Cells:</strong> True nucleus hota hai.</div>
+    </div>
+
+    <div class="section">
+        <h2>Scientific Research</h2>
+        <p><strong>1. Magnetic Gravity:</strong> Artificial gravity concept.</p>
+        <p><strong>2. Jalkumbhi Water Treatment:</strong> Eco-friendly water purification.</p>
+        <p><strong>3. Space Greenhouse:</strong> Sustainable plant growth in space.</p>
+    </div>
+</body>
+</html>
